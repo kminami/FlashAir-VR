@@ -1,5 +1,10 @@
 # FlashAir VR
 
+## 使い方
+
+https://github.com/kminami/FlashAir-VR/releases からzipファイルをダウンロード・展開し、FlashAirVRフォルダの中身を丸ごとFlashAirのルートにコピーします。
+WebブラウザでFlashAirのWebサーバにアクセスすれば、VR空間内でコンテンツを参照することができます。
+
 ## How to use
 
 ```bash
